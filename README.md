@@ -12,6 +12,7 @@ Saya Bayu rheza disini akan memberikan sedikit tutorial bagaimana membuat sebuah
 
 ##### Website:
 
-* remix.ethereum.org
-* vintage.myetherwallet.com
+* [Remix Ethereum untuk mencari ABI Code](remix.ethereum.org)
+* [MyEtherwallet untuk mendeploy contract](vintage.myetherwallet.com)
+
 ###### Noted: `Source code` dibuat oleh `Bayu Rheza` untuk menambah wawasan bukan untuk disalah gunakan.
